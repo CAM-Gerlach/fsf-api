@@ -6,6 +6,7 @@
     "non-free"
   ],
   "uris": [
-    "https://www.gnu.org/licenses/license-list.html#YaST"
+    "https://www.gnu.org/licenses/license-list.html#YaST",
+    "https://directory.fsf.org/wiki/License:YaST-license"
   ]
 }
